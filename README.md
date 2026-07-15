@@ -1,5 +1,8 @@
 # Pizza Sales Dashboard
 
+## Live Dashboard
+https://navinsrinivaz.github.io/pizza-sales-dashboard/
+
 ## What it does
 Interactive dashboard analyzing 21,000+ orders and 48000+ pizza units sold.
 Shows top-selling items, category trends, and monthly/daily sales patterns.
@@ -19,6 +22,3 @@ Excel (Pivot Tables), HTML, Claude AI
 - Friday is the peak sales day (₹1,36,074); Sunday is the lowest (₹99,204)
 - July is the top revenue month (₹72.6K), while September is the lowest (₹64.2K)
 - Top-selling product: Thai Chicken Pizza — ₹43,434 revenue from 2,371 units sold
-
-## Live Dashboard
-https://navinsrinivaz.github.io/pizza-sales-dashboard/
