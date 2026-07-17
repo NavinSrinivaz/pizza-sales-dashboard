@@ -8,7 +8,7 @@ Interactive dashboard analyzing 21,000+ orders and 48000+ pizza units sold.
 Shows top-selling items, category trends, and monthly sales patterns.
 
 ## Tools used
-Excel (Pivot Tables), HTML, Claude AI
+Microsoft Excel (Pivot Tables), Claude AI 
 
 ## Process
 - Analyzed raw sales data using Excel Pivot Tables
