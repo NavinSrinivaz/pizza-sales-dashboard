@@ -5,7 +5,7 @@ https://navinsrinivaz.github.io/pizza-sales-dashboard/
 
 ## What it does
 Interactive dashboard analyzing 21,000+ orders and 48000+ pizza units sold.
-Shows top-selling items, category trends, and monthly/daily sales patterns.
+Shows top-selling items, category trends, and monthly sales patterns.
 
 ## Tools used
 Excel (Pivot Tables), HTML, Claude AI
